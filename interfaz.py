@@ -17,9 +17,9 @@ class OutdoorPlannerApp(ctk.CTk):
         # Diccionario de Datos
         self.equipo_data = {
             "Trekking por el día": ["Zapatos trekking", "Mochila 20L", "Agua", "Botiquín"],
-            "Trail Running": ["Zapatillas trail", "Chaleco hidratación", "Manta térmica"],
-            "Montañismo Invernal": ["Botas rígidas", "Crampones", "Piolet", "Casco"],
-            "Snowboard / Splitboard": ["DVA", "Pala", "Sonda", "Tabla", "Pieles"]
+            "Trail Running": ["Zapatillas trail", "Chaleco hidratación", "Manta térmica", "Botiquín"],
+            "Montañismo Invernal": ["Botas rígidas", "Crampones", "Piolet", "Casco", "Arnés", "Cuerda (30m aprox.)", "Mochila 55+ ltrs.", "Comida colórica", "Agua", "Botiquín"],
+            "Snowboard / Splitboard": ["DVA", "Pala", "Sonda", "Tabla/s", "Pieles", "Ración de marcha", "Equipo de reparación", "Casco", "Antiparras", "Mochila 25/35 ltrs.", "Agua", "Botiquín"]
         }
 
         # --- LAYOUT: Sidebar ---
